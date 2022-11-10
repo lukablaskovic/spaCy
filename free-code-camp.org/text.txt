@@ -1,0 +1,5 @@
+The process will begin with a user task for getting the student's preferences.
+Then a service task will follow to store the user preferences.
+After that there will be an exclusive gateway: one possibility will lead to a message task that will notify students via email;  another possibility will lead to the parallel gateway.
+After that, there will be an exclusive gateway leading to two possibilities: "did not accept" path, and "accept" path.
+
